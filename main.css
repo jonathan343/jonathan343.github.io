@@ -17,16 +17,6 @@
     padding: 24px;
     padding-top: 3px;
 }
-.card2{
-    background: teal;
-    flex-grow: 1;
-    flex-basis: 1px;
-    max-width: 20%;
-    box-shadow: 2px 2px 5px;
-    margin: 12px;
-    padding: 24px;
-    padding-top: 3px;
-}
 footer {
     position: absolute;
     width: 100vw;
