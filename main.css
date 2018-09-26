@@ -1,3 +1,6 @@
+#header{
+    text-align: center;
+}
 #my-name{
     text-align: center;
     border: 1px border solid black;
@@ -5,6 +8,7 @@
     background: teal;
 }
 #Project-cards{
+    text-align: center;
     display: flex;
     
 }
