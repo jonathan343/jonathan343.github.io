@@ -1,4 +1,5 @@
 #my-name{
+    text-align: center;
     border: 1px border solid black;
     text-align: center;
     background: teal;
@@ -8,6 +9,7 @@
     
 }
 .card{
+    text-align: center;
     background: teal;
     flex-grow: 1;
     flex-basis: 1px;
@@ -18,6 +20,7 @@
     padding-top: 3px;
 }
 footer {
+    text-align: center;
     position: absolute;
     width: 100vw;
     text-align: center;
