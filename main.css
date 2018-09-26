@@ -1,22 +1,27 @@
 #my-name{
     text-align: center;
+    font-family: "Times New Roman", 'Times New Roman', Times, serif;
     border: 1px border solid black;
     text-align: center;
     background: teal;
 }
 #Project-cards{
     text-align: center;
+    font-family: "Times New Roman", 'Times New Roman', Times, serif;
     display: flex;
     
 }
 #About-me{
     text-align: center;
+    font-family: "Times New Roman", 'Times New Roman', Times, serif;
 }
 #Projects{
     text-align: center;
+    font-family: "Times New Roman", 'Times New Roman', Times, serif;
 }
 .card{
     text-align: center;
+    font-family: "Times New Roman", 'Times New Roman', Times, serif;
     background: teal;
     flex-grow: 1;
     flex-basis: 1px;
@@ -28,6 +33,7 @@
 }
 footer {
     text-align: center;
+    font-family: "Times New Roman", 'Times New Roman', Times, serif;
     position: absolute;
     width: 100vw;
     text-align: center;
