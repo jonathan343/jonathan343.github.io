@@ -5,7 +5,7 @@
 }
 #Project-cards{
     display: flex;
-    border-radius: 25px;
+    
 }
 .card{
     flex-grow: 1;
@@ -14,7 +14,8 @@
     box-shadow: 2px 2px 5px;
     margin: 12px;
     padding: 24px;
-    padding-top: 3px
+    padding-top: 3px;
+    border-radius: 25px;
 
 }
 footer {
