@@ -9,9 +9,11 @@
     display: flex;
     
 }
-.About-me{
+#About-me{
     text-align: center;
-
+}
+#Projects{
+    text-align: center;
 }
 .card{
     text-align: center;
