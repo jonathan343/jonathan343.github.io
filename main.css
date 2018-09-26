@@ -5,6 +5,7 @@
 }
 #Project-cards{
     display: flex;
+    border-radius: 25px;
 }
 .card{
     flex-grow: 1;
