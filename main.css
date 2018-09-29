@@ -1,8 +1,11 @@
+body{
+    background-color: #8c8c8c;
+}
 #my-name{
     font-family: "Times New Roman", 'Times New Roman', Times, serif;
     border: 1px border solid black;
     text-align: center;
-    background: teal;
+    background: #33adff;
 }
 #Project-cards{
     font-family: "Times New Roman", 'Times New Roman', Times, serif;
@@ -15,22 +18,47 @@
 #Projects{
     font-family: "Times New Roman", 'Times New Roman', Times, serif;
 }
-.card{
+
+.card {
     text-align: center;
     font-family: "Times New Roman", 'Times New Roman', Times, serif;
-    background: teal;
+    background: #33adff;
     flex-grow: 1;
     flex-basis: 1px;
     max-width: 20%;
     box-shadow: 2px 2px 5px;
-    margin: 12px;
+    margin: 0px 12px 12px 12px;
     padding: 24px;
     padding-top: 3px;
     border-radius: 15px;
 }
+.card h4{
+    text-decoration: underline;
+}
+.card2 {
+    text-align: center;
+    font-family: "Times New Roman", 'Times New Roman', Times, serif;
+    background: #33adff;
+    flex-grow: 1;
+    flex-basis: 1px;
+    max-width: 20%;
+    box-shadow: 2px 2px 5px;
+    margin: 0px 12px 12px 12px;
+    padding: 3px 20px 3px 20px;
+    border-radius: 15px;
+}
+
+.card2 ul{
+    padding-left: 0px;
+    list-style-type: none;
+}
+
 #Skills{
     font-family: "Times New Roman", 'Times New Roman', Times, serif;
+}
 
+#Skills h2{
+    margin-bottom: 2px;
 }
 footer {
     text-align: center;
@@ -40,5 +68,6 @@ footer {
     text-align: center;
     border: 1px solid black;
     bottom: 0;
+    background-color: #33adff;
 
 }
