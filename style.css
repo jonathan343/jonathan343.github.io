@@ -64,6 +64,7 @@ header a:hover{
     background:url('background_website.jpg') no-repeat;
     text-align: center;
     color: #ffffff;
+    width: 100%;
 }
 
 #about-me h1{
