@@ -2,7 +2,7 @@ body{
     font: 15px/1.5 Arial,Helvetica,sans-serif;
     padding:0;
     margin:0;
-    background-color: #f4f4f4;
+    background: #1c1e26
 }
 
 .container{
@@ -80,6 +80,7 @@ header a:hover{
 #boxes{
     margin-top:20px;
     margin-bottom:20px;
+    color: #fff;
 }
 
 #boxes .box{
@@ -96,7 +97,7 @@ header a:hover{
 
 footer{
     width:100%;
-    padding: 2.5px;
+    padding: 2px;
     margin-top:20px;
     margin-bottom:0;
     color: #ffffff;
